@@ -53,10 +53,10 @@
 
 
 <a href="https://github.com/javedali-dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javedali-dev&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javedali-dev&theme=radical&hide_langs_below=1" />
 </a>
 <a href="https://github.com/javedali-dev">
- <img align="center" style="margin-left: 40px;" src="https://github-readme-stats.vercel.app/api?username=javedali-dev&show_icons=true&theme=dark&line_height=27" alt="Javed's github stats"/>
+ <img align="center" style="margin-left: 40px;" src="https://github-readme-stats.vercel.app/api?username=javedali-dev&show_icons=true&theme=radical&line_height=27&count_private=true" alt="Javed's github stats"/>
 </a>
 
 
