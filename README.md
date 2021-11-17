@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Artificial intelligence 
 - 👯 I’m looking to collaborate on Cool Project
 - 🤔 I’m looking for help with mentorship
-- 💬 Ask me about TTD(Test Driven Development)
+<!-- - 💬 Ask me about TTD(Test Driven Development) -->
 - ⚡ Fun fact: I love computer
 
 
